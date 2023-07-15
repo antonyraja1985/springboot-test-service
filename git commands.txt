@@ -1,0 +1,55 @@
+Git Commands or Operations:
+===========================
+
+	1. git version				Note : 
+
+	2. git help				 1. All the commands will be used commandline and IDE
+
+	3. git config				 2. Pre Requisting : Git Architecture 
+
+	4. git init				 3. Install the Git software, so that all the git client 
+						    tools will be available
+	5. git clone
+								a. git bash
+	6. git add
+								b. git GUI
+	7. git status
+								c. git CMD
+	8. git rm --cached
+						4. Some Git client tools are IDE's like Eclipse, Intellij, STS
+	9. git restore 
+
+	10. git commit
+
+	11. git log
+
+	12. git branch
+
+Notes: After Cloning the GitHub repository must need .git folder, if it is not there all are 
+       git commands will not work
+
+Git Repository Architecture
+		springboot-test-service
+			|-main branch  
+
+
+How to check current branch:
+--------------------------------------
+git branch
+
+
+Files status in git:
+====================
+
+There are 3 types of status
+
+1. Untracked : These files not recognised by Git
+
+2. Tracked   : These files recognized by Git. i.e. tracked with un modified
+
+3. Modified  : These files recognized by Git and modified. i.e. Tracked with modified
+
+
+
+
+
